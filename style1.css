@@ -1,0 +1,47 @@
+/* ===== HEADER STYLING ===== */
+header {
+  background-color: #0b3d91; /* Dark blue background */
+  color: white;
+  text-align: center;
+  padding: 45px 0;
+  border-radius: 7px;
+}
+
+header h1 {
+  font-size: 45px;
+  margin: 0;
+  font-weight: bold;
+}
+
+header p {
+  font-size: 16px;
+  margin-top: 5px;
+  color: #e0e0e0;
+}
+    /* ===== FOOTER STYLING ===== */
+footer {
+  background-color: #0b3d91; /* Same blue as header */
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+  font-size: 14px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  margin-top: 40px;
+}
+
+footer span {
+  color: #f8c22e; /* Optional accent color */
+
+
+}
+.section {
+  border: 1px solid black;
+  border-radius: 20px;
+  margin-top: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color: #e0e0e0;
+  align-self: center;
+}
